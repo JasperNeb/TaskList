@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="title">enter title here</string>
+    <string name="description">enter description here</string>
+    <string name="add">Add to list!</string>
+    <string name="back">back</string>
+    <string name="delete">delete</string>
+    <string name="importance">importance</string>
+</resources>

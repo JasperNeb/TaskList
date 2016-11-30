@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_895de2783551d363b20685968500266aae6e29dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_ae355bc9c1f6d8ba9ac6e8769d34db4f82583d2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_099dfa272b8133434358609c442d578e66adeb44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_055c5b366c7a54d7f5a35ab4c8a6fc875e9cff1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02d96628ec10ef67b36641b5447c0c376ddadd49">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_04ee9320bf788a7f68d690ff432c8bfe1c44320c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_1e5a3ef38acb6e9e3cc853679da985f04f99c0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_68989951809012d4aca0613fe3d81183c517df74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_34d7c5fa08fe18f62480e6831605a8d0f74e1dbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_fcaa77430ecb9f3296a5074406d664d0c43e91a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3fe9a4be1dd8488fb6aec953cc118107d07db054">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_556f03046035ca35a71ec9095c7acded50a4d317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_a45d6fd6dfec1651d0af878925eaa316431cdd16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6a85da1831241c984dcbb114f3b5f7a799a35a09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_909485d1fbaeb65f11eff9c7184524c26c149e94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_54ab4b5e196dbe60e8ffd54a675a6906095f900d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_264710f429c29b22d4cab2610da757ed05f88c12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3d429b4349f25c7c5d14d82cbc1010f2ae301729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neb\TaskList\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Neb\TaskList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_144bc757c6a5c53ca21ca5f737a817f27eb0c708\classes.dex" />
+    </item>
+
+</items>
